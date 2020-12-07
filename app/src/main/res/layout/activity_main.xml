@@ -10,7 +10,7 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/distanciaEditText"
+        android:id="@+id/distanceEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/main_distancia_hint"
@@ -24,7 +24,7 @@
         android:text="@string/main_totalDistancia_textView" />
 
     <EditText
-        android:id="@+id/precoEditText"
+        android:id="@+id/priceEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/main_preco_hint"
@@ -38,7 +38,7 @@
         android:text="@string/main_precoPorLitro_textView" />
 
     <EditText
-        android:id="@+id/autonomiaEditText"
+        android:id="@+id/autonomyEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/main_autonomia_hint"
@@ -61,7 +61,7 @@
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/resultadoTextView"
+        android:id="@+id/resultTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="42dp"
@@ -71,7 +71,7 @@
         android:textSize="32sp" />
 
     <Button
-        android:id="@+id/calcularButton"
+        android:id="@+id/calculateButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"

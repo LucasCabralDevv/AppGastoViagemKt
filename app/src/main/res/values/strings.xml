@@ -9,4 +9,6 @@
     <string name="main_gastoTotal_textView">SEU GASTO TOTAL SERÁ DE:</string>
     <string name="main_calculoGasto_textView">R$ 0</string>
     <string name="main_calcular_button">Calcular</string>
+    <string name="main_validation_toast">Por favor, preencha todos os campos!</string>
+    <string name="main_nfException_toast">Por favor, informe valores válidos!</string>
 </resources>
